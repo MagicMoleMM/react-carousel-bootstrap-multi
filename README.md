@@ -1,2 +1,2 @@
-# react-carousel-bootstrap-multi
+# react-carousel-bootstrap
 Created with CodeSandbox
